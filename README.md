@@ -2,7 +2,7 @@ Ce pipeline montre comment utiliser un conteneur multi-stage dans un workflow De
 
 Contenu du fichier .github/workflows/docker-ci-cd.yml
 
-# Nom du workflow, affiché dans l'interface de GitHub Actions.
+# Nom du workflow, affiché dans l'interface
 name: CI/CD Pipeline for Multi-Stage Docker
 
 # Définition des événements déclencheurs du pipeline.
